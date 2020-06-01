@@ -1,0 +1,27 @@
+
+.card {
+
+    height: 400px;
+    overflow: hidden;
+}
+
+.card-image {
+
+    height: 250;
+    overflow: hidden;
+}
+/*
+.flex-container {
+
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.a {
+
+    color: red;
+
+
+}
+/*
